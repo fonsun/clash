@@ -2,16 +2,16 @@
 
 # MyList
 # 域名后缀匹配
+DOMAIN-SUFFIX,fonsun.top
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,fonsun.top
 DOMAIN-SUFFIX,hao123.com
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,fonsun.top
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,m-team
-DOMAIN-KEYWORD,fonsun.top
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
