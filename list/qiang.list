@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,mini.jmsuper.com
 DOMAIN-KEYWORD,pub1.emby.wtf
 DOMAIN-KEYWORD,makeoxc.co
 DOMAIN-KEYWORD,manfuz.co
+DOMAIN-KEYWORD,opensubtitles.com
 
 
 # 域名后缀匹配
@@ -14,3 +15,4 @@ DOMAIN-SUFFIX,manfuz.co
 DOMAIN-SUFFIX,makeoxc.co
 DOMAIN-SUFFIX,58ppyun.com
 DOMAIN-SUFFIX,sms-activate.world
+DOMAIN-SUFFIX,opensubtitles.com
