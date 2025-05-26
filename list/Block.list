@@ -1,3 +1,9 @@
+# 域名关键字匹配
+# DOMAIN-KEYWORD,openai
+# DOMAIN-KEYWORD,anthropic
+# DOMAIN-KEYWORD,Claude
+# 域名后缀匹配
+# DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,adobe.io
