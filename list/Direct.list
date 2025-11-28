@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,wanstone.top
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,maishi.mynetgear.com
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # 域名关键字匹配
@@ -14,6 +15,7 @@ DOMAIN-KEYWORD,fonsun.top
 DOMAIN-KEYWORD,wanstone.top
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,m-team
+DOMAIN-KEYWORD,mynetgear.com
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
