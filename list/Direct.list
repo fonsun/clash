@@ -4,6 +4,7 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,fonsun.top
 DOMAIN-SUFFIX,wanstone.top
+DOMAIN-SUFFIX,maishi.mynetgear.com
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
@@ -13,6 +14,7 @@ DOMAIN-SUFFIX,maishi.mynetgear.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,fonsun.top
 DOMAIN-KEYWORD,wanstone.top
+DOMAIN-KEYWORD,maishi.mynetgear.com
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,mynetgear.com
